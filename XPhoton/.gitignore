@@ -1,0 +1,11 @@
+.*
+!/.gitignore
+!/.clang-format
+*.elf
+*.o
+*.ta
+*.dmp
+*.map
+*.lds
+ta/dyn_list
+
